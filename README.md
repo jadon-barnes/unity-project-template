@@ -1,1 +1,1 @@
-# unity-project-template
+# Unity Project Template
